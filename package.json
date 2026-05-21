@@ -1,0 +1,7 @@
+{
+  "name": "paypal-checkout",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Custom PayPal checkout page using Expanded Checkout",
+  "type": "module"
+}
